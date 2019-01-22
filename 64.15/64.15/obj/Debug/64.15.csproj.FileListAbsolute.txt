@@ -1,0 +1,7 @@
+C:\Users\Даниил\source\repos\64.15\64.15\bin\Debug\64.15.exe.config
+C:\Users\Даниил\source\repos\64.15\64.15\bin\Debug\64.15.exe
+C:\Users\Даниил\source\repos\64.15\64.15\bin\Debug\64.15.pdb
+C:\Users\Даниил\source\repos\64.15\64.15\obj\Debug\64.15.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\64.15\64.15\obj\Debug\64.15.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\64.15\64.15\obj\Debug\64.15.exe
+C:\Users\Даниил\source\repos\64.15\64.15\obj\Debug\64.15.pdb

@@ -1,0 +1,6 @@
+C:\Users\Даниил\source\repos\64.18\64.18\bin\Debug\64.18.exe.config
+C:\Users\Даниил\source\repos\64.18\64.18\bin\Debug\64.18.exe
+C:\Users\Даниил\source\repos\64.18\64.18\bin\Debug\64.18.pdb
+C:\Users\Даниил\source\repos\64.18\64.18\obj\Debug\64.18.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\64.18\64.18\obj\Debug\64.18.exe
+C:\Users\Даниил\source\repos\64.18\64.18\obj\Debug\64.18.pdb
